@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powerpoint": {
+      "command": "/Users/a467763/Documents/RajiK/Tech-Evangelization/powerpoint-env/bin/python",
+      "args": ["-m", "ppt_mcp_server"]
+    }
+  }
+}
